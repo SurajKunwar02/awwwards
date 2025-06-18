@@ -7,5 +7,5 @@ export default defineConfig({
   plugins: [
       tailwindcss(),
       react()],
-  base: "awwwards",
+  base: "/awwwards",
 })
